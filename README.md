@@ -16,5 +16,5 @@ DAX Function - Classification Stock Inventory to write off slow moving or non mo
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![image](https://github.com/DataGeekIT/ClassificationInventoryDAX/assets/101667752/3504e0d2-e703-4a8b-a6d9-0931f9b6dc86)
+![image](https://github.com/DataGeekIT/ClassificationInventoryDAX/assets/101667752/6ef18e8a-b3bf-4054-88b1-df9da3452bbb)
 
